@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THUVIEN HTHA", "THUVIEN HTHA\THUVIEN HTHA.csproj", "{045F6453-4184-4C7D-B445-60D3BC056D22}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup4", "Setup4\Setup4.vdproj", "{EC5091C1-8F2D-44E4-A16D-D1F513E76A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045F6453-4184-4C7D-B445-60D3BC056D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045F6453-4184-4C7D-B445-60D3BC056D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045F6453-4184-4C7D-B445-60D3BC056D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045F6453-4184-4C7D-B445-60D3BC056D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5091C1-8F2D-44E4-A16D-D1F513E76A02}.Debug|Any CPU.ActiveCfg = Debug
+		{EC5091C1-8F2D-44E4-A16D-D1F513E76A02}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56F1785-4B85-41C3-B643-C8F98F3DB51F}
+	EndGlobalSection
+EndGlobal

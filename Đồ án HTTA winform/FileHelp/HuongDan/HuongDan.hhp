@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HuongDan.chm
+Contents file=HuongDan.hhc
+Index file=HuongDan.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=HuongDan
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="HuongDan","HuongDan.hhc","HuongDan.hhk","HuongDan.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+HuongDan.mht
+

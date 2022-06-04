@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Thông Tin HTTA.chm
+Contents file=Thông Tin HTTA.hhc
+Index file=Thông Tin HTTA.hhk
+Enhanced decompilation=Yes
+Binary TOC=Yes
+Full-text search=Yes
+Language=0x0409
+Title=Thông Tin HTTA
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Thông Tin HTTA","Thông Tin HTTA.hhc","Thông Tin HTTA.hhk","MOTADOAN.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+MOTADOAN.mht
+
